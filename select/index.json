@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Ripe Aster",
+  "base_artist": "八木海莉",
+  "createdAt": "2026-03-25T11:24:50.053835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ripe Aster",
+      "artist": "Kairi Yagi",
+      "has_synced": false,
+      "path": "select/01_Ripe_Aster_Kairi_Yagi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ripe Aster (DJ Licious Remix) - Sakura Chill Beats Singles",
+      "artist": "Yagi, Kairi & Licious, DJ",
+      "has_synced": true,
+      "path": "select/02_Ripe_Aster_(DJ_Licious_Remix)_-_Sakura_Chill_Beats_Singles_Yagi,_Kairi_&_Licious,_DJ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ripe Aster (DJ Licious Remix) - Sakura Chill Beats Singles",
+      "artist": "八木海莉",
+      "has_synced": true,
+      "path": "select/03_Ripe_Aster_(DJ_Licious_Remix)_-_Sakura_Chill_Beats_Singles_八木海莉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ripe Aster (DJ Licious Remix) -Sakura Chill Beats Singles-",
+      "artist": "八木海莉&DJ Licious",
+      "has_synced": true,
+      "path": "select/04_Ripe_Aster_(DJ_Licious_Remix)_-Sakura_Chill_Beats_Singles-_八木海莉&DJ_Licious.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ripe Aster",
+      "artist": "八木海莉",
+      "has_synced": true,
+      "path": "select/05_Ripe_Aster_八木海莉.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ripe",
+      "artist": "Banoffee feat. Cupcakke",
+      "has_synced": false,
+      "path": "select/06_Ripe_Banoffee_feat._Cupcakke.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ripe (feat. CupcakKe)",
+      "artist": "Banoffee",
+      "has_synced": false,
+      "path": "select/07_Ripe_(feat._CupcakKe)_Banoffee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ripe For The Breaking",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/08_Ripe_For_The_Breaking_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ripe",
+      "artist": "Babes In Toyland",
+      "has_synced": true,
+      "path": "select/09_Ripe_Babes_In_Toyland.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ripe (Live)",
+      "artist": "Babes In Toyland",
+      "has_synced": false,
+      "path": "select/10_Ripe_(Live)_Babes_In_Toyland.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ripe And Ready",
+      "artist": "Spirit",
+      "has_synced": false,
+      "path": "select/11_Ripe_And_Ready_Spirit.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Interlude I (The Ripe & Ruin)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/12_Interlude_I_(The_Ripe_&_Ruin)_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(The Ripe & Ruin)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/13_(The_Ripe_&_Ruin)_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "❦ (Ripe & Ruin)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/14_❦_(Ripe_&_Ruin)_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Ripe Beneath The Rind",
+      "artist": "Cattle Decapitation",
+      "has_synced": true,
+      "path": "select/15_The_Ripe_Beneath_The_Rind_Cattle_Decapitation.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Adultery Is Ripe",
+      "artist": "The Blood Brothers",
+      "has_synced": false,
+      "path": "select/16_This_Adultery_Is_Ripe_The_Blood_Brothers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Fruit Is Ripe",
+      "artist": "Self Defense Family",
+      "has_synced": false,
+      "path": "select/17_All_Fruit_Is_Ripe_Self_Defense_Family.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ripe",
+      "artist": "Screaming Females",
+      "has_synced": true,
+      "path": "select/18_Ripe_Screaming_Females.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cherry Ripe",
+      "artist": "The Preatures",
+      "has_synced": false,
+      "path": "select/19_Cherry_Ripe_The_Preatures.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Wanted (Ripe mix)",
+      "artist": "Vanessa Carlton",
+      "has_synced": false,
+      "path": "select/20_Wanted_(Ripe_mix)_Vanessa_Carlton.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Interlude 1 (Ripe & Ruin)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/21_Interlude_1_(Ripe_&_Ruin)_alt-J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ripe Aster",
+      "artist": "八木海莉",
+      "has_synced": false,
+      "path": "select/pl_01_Ripe_Aster_八木海莉.txt"
+    }
+  ]
+}
